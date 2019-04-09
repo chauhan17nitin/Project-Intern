@@ -1,0 +1,3323 @@
+[
+    {
+        "created_at": "Tue Apr 09 16:45:07 +0000 2019",
+        "id": 1115656899892879361,
+        "id_str": "1115656899892879361",
+        "text": "RT @IIITDelhi: We are delighted to share that IIIT-Delhi is ranked 55 by NIRF this year. We have moved up by 11 positions compared to the p\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "IIITDelhi",
+                    "name": "IIIT Delhi",
+                    "id": 2227868629,
+                    "id_str": "2227868629",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Apr 09 09:03:12 +0000 2019",
+            "id": 1115540654359056385,
+            "id_str": "1115540654359056385",
+            "text": "We are delighted to share that IIIT-Delhi is ranked 55 by NIRF this year. We have moved up by 11 positions compared\u2026 https://t.co/5C2XoWXAVi",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/5C2XoWXAVi",
+                        "expanded_url": "https://twitter.com/i/web/status/1115540654359056385",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2227868629,
+                "id_str": "2227868629",
+                "name": "IIIT Delhi",
+                "screen_name": "IIITDelhi",
+                "location": "New Delhi, India",
+                "description": "Official Twitter handle of Indraprastha Institute of Information Technology, Delhi (IIIT-D)",
+                "url": "http://t.co/Shz3rGJG0f",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Shz3rGJG0f",
+                                "expanded_url": "http://www.iiitd.ac.in",
+                                "display_url": "iiitd.ac.in",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1577,
+                "friends_count": 50,
+                "listed_count": 40,
+                "created_at": "Tue Dec 03 07:27:35 +0000 2013",
+                "favourites_count": 1309,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1967,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/710727346148409344/88A6YRY2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/710727346148409344/88A6YRY2_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2227868629/1466086346",
+                "profile_link_color": "3FADA8",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 9,
+            "favorite_count": 39,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Apr 09 05:04:27 +0000 2019",
+        "id": 1115480571323371520,
+        "id_str": "1115480571323371520",
+        "text": "RT @Harvard: Professor Jelani Nelson founded AddisCoder, a program that teaches students in Ethiopia how to code https://t.co/0sM06p4qxw",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Harvard",
+                    "name": "Harvard University",
+                    "id": 39585367,
+                    "id_str": "39585367",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/0sM06p4qxw",
+                    "expanded_url": "https://hrvd.me/nelson4101t",
+                    "display_url": "hrvd.me/nelson4101t",
+                    "indices": [
+                        113,
+                        136
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Apr 08 20:10:01 +0000 2019",
+            "id": 1115346075416764417,
+            "id_str": "1115346075416764417",
+            "text": "Professor Jelani Nelson founded AddisCoder, a program that teaches students in Ethiopia how to code https://t.co/0sM06p4qxw",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/0sM06p4qxw",
+                        "expanded_url": "https://hrvd.me/nelson4101t",
+                        "display_url": "hrvd.me/nelson4101t",
+                        "indices": [
+                            100,
+                            123
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 39585367,
+                "id_str": "39585367",
+                "name": "Harvard University",
+                "screen_name": "Harvard",
+                "location": "Cambridge, MA",
+                "description": "Devoted to excellence in teaching, learning, and research, and to developing leaders who make a difference globally.",
+                "url": "http://t.co/n5qU9llHb8",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/n5qU9llHb8",
+                                "expanded_url": "http://www.harvard.edu",
+                                "display_url": "harvard.edu",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 938322,
+                "friends_count": 767,
+                "listed_count": 9229,
+                "created_at": "Tue May 12 20:18:09 +0000 2009",
+                "favourites_count": 8478,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 40849,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "A41034",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/875797335342817282/JO5OsmxU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/875797335342817282/JO5OsmxU_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/39585367/1553180690",
+                "profile_link_color": "A51C30",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 35,
+            "favorite_count": 95,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 35,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Apr 09 05:04:11 +0000 2019",
+        "id": 1115480504931844101,
+        "id_str": "1115480504931844101",
+        "text": "RT @emnlp2019: For anyone interested in submitting to EMNLP 2019, the anonymity period begins in less two weeks, on April 21.\nhttps://t.co/\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "emnlp2019",
+                    "name": "emnlp2019",
+                    "id": 964589615230337024,
+                    "id_str": "964589615230337024",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Apr 08 17:35:00 +0000 2019",
+            "id": 1115307064539004928,
+            "id_str": "1115307064539004928",
+            "text": "For anyone interested in submitting to EMNLP 2019, the anonymity period begins in less two weeks, on April 21.\u2026 https://t.co/tNUep6umTx",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/tNUep6umTx",
+                        "expanded_url": "https://twitter.com/i/web/status/1115307064539004928",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            112,
+                            135
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 964589615230337024,
+                "id_str": "964589615230337024",
+                "name": "emnlp2019",
+                "screen_name": "emnlp2019",
+                "location": "Hong Kong",
+                "description": "Conference on Empirical Methods in Natural Language Processing \u2014 November 3\u20137 \u2014 Hong Kong. #NLProc",
+                "url": "https://t.co/CNLZy2BX0s",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/CNLZy2BX0s",
+                                "expanded_url": "https://emnlp-ijcnlp2019.org/",
+                                "display_url": "emnlp-ijcnlp2019.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3563,
+                "friends_count": 166,
+                "listed_count": 43,
+                "created_at": "Fri Feb 16 19:57:40 +0000 2018",
+                "favourites_count": 7,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 53,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1067945211412783105/uIYzso8K_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067945211412783105/uIYzso8K_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/964589615230337024/1543451867",
+                "profile_link_color": "333333",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 13,
+            "favorite_count": 36,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Apr 08 19:38:09 +0000 2019",
+        "id": 1115338057400573953,
+        "id_str": "1115338057400573953",
+        "text": "RT @multimediaeval: Announcing the 2019 MediaEval multimedia tasks: https://t.co/V6NMt1vaNV Participation is open for anyone who is interes\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "multimediaeval",
+                    "name": "MultimediaEval",
+                    "id": 704779989884014593,
+                    "id_str": "704779989884014593",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/V6NMt1vaNV",
+                    "expanded_url": "http://multimediaeval.org/mediaeval2019",
+                    "display_url": "multimediaeval.org/mediaeval2019",
+                    "indices": [
+                        68,
+                        91
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Mar 18 06:40:38 +0000 2019",
+            "id": 1107532242232979456,
+            "id_str": "1107532242232979456",
+            "text": "Announcing the 2019 MediaEval multimedia tasks: https://t.co/V6NMt1vaNV Participation is open for anyone who is int\u2026 https://t.co/2kRM9XGiF5",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/V6NMt1vaNV",
+                        "expanded_url": "http://multimediaeval.org/mediaeval2019",
+                        "display_url": "multimediaeval.org/mediaeval2019",
+                        "indices": [
+                            48,
+                            71
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/2kRM9XGiF5",
+                        "expanded_url": "https://twitter.com/i/web/status/1107532242232979456",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 704779989884014593,
+                "id_str": "704779989884014593",
+                "name": "MultimediaEval",
+                "screen_name": "multimediaeval",
+                "location": "",
+                "description": "The Benchmarking Initiative for Multimedia Evaluation (MediaEval) offers challenges to the multimedia research community https://t.co/52yxNnvvIO",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/52yxNnvvIO",
+                                "expanded_url": "http://multimediaeval.org",
+                                "display_url": "multimediaeval.org",
+                                "indices": [
+                                    121,
+                                    144
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 283,
+                "friends_count": 202,
+                "listed_count": 9,
+                "created_at": "Tue Mar 01 21:26:58 +0000 2016",
+                "favourites_count": 5,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 171,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/704785959095836672/c5YsjSLT_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/704785959095836672/c5YsjSLT_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/704779989884014593/1457563194",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 15,
+            "favorite_count": 20,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Apr 08 07:08:12 +0000 2019",
+        "id": 1115149324533542912,
+        "id_str": "1115149324533542912",
+        "text": "Many Congratulations to @midasIIITD student, Shagun Uppal @shagunuppls, on getting selected for the summer internsh\u2026 https://t.co/bzhiSm4zuB",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "midasIIITD",
+                    "name": "MIDAS IIITD",
+                    "id": 1021355762575073281,
+                    "id_str": "1021355762575073281",
+                    "indices": [
+                        24,
+                        35
+                    ]
+                },
+                {
+                    "screen_name": "shagunuppls",
+                    "name": "shagun uppal",
+                    "id": 1399417358,
+                    "id_str": "1399417358",
+                    "indices": [
+                        58,
+                        70
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/bzhiSm4zuB",
+                    "expanded_url": "https://twitter.com/i/web/status/1115149324533542912",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Apr 08 03:27:42 +0000 2019",
+        "id": 1115093836341096449,
+        "id_str": "1115093836341096449",
+        "text": "@midasIIITD thanks all students who have appeared for the interview yesterday. We will announce the interview resul\u2026 https://t.co/qxESgZPtKJ",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "midasIIITD",
+                    "name": "MIDAS IIITD",
+                    "id": 1021355762575073281,
+                    "id_str": "1021355762575073281",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/qxESgZPtKJ",
+                    "expanded_url": "https://twitter.com/i/web/status/1115093836341096449",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 1021355762575073281,
+        "in_reply_to_user_id_str": "1021355762575073281",
+        "in_reply_to_screen_name": "midasIIITD",
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Apr 07 14:17:29 +0000 2019",
+        "id": 1114894970886983680,
+        "id_str": "1114894970886983680",
+        "text": "@himanchalchandr Meanwhile, complete CV/NLP task first.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "himanchalchandr",
+                    "name": "himanchal chandra",
+                    "id": 2350532065,
+                    "id_str": "2350532065",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1114887041567744001,
+        "in_reply_to_status_id_str": "1114887041567744001",
+        "in_reply_to_user_id": 2350532065,
+        "in_reply_to_user_id_str": "2350532065",
+        "in_reply_to_screen_name": "himanchalchandr",
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Apr 07 14:17:09 +0000 2019",
+        "id": 1114894886292029440,
+        "id_str": "1114894886292029440",
+        "text": "@sayangdipto123 Submit as per the guideline again.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sayangdipto123",
+                    "name": "Sayangdipto Chakraborty",
+                    "id": 1114472139346681856,
+                    "id_str": "1114472139346681856",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1114888210419724293,
+        "in_reply_to_status_id_str": "1114888210419724293",
+        "in_reply_to_user_id": 1114472139346681856,
+        "in_reply_to_user_id_str": "1114472139346681856",
+        "in_reply_to_screen_name": "sayangdipto123",
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Apr 07 11:43:24 +0000 2019",
+        "id": 1114856195335106560,
+        "id_str": "1114856195335106560",
+        "text": "We request all students whose interview are scheduled today to join at the time given to them and not before or aft\u2026 https://t.co/7cnrlj1b9Q",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/7cnrlj1b9Q",
+                    "expanded_url": "https://twitter.com/i/web/status/1114856195335106560",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Apr 07 06:55:19 +0000 2019",
+        "id": 1114783695129534464,
+        "id_str": "1114783695129534464",
+        "text": "Other queries: \"none of the Tweeter Apis give the correct count of favorites tested for most of them, all give the\u2026 https://t.co/2jnCTMMqV8",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/2jnCTMMqV8",
+                    "expanded_url": "https://twitter.com/i/web/status/1114783695129534464",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Apr 07 06:53:38 +0000 2019",
+        "id": 1114783273757151232,
+        "id_str": "1114783273757151232",
+        "text": "Other queries: \"do we have to make two different repositories on Github as \"Python Problem\" and \"CV Problem\". Or we\u2026 https://t.co/45x8RhQcAT",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/45x8RhQcAT",
+                    "expanded_url": "https://twitter.com/i/web/status/1114783273757151232",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Apr 07 05:32:27 +0000 2019",
+        "id": 1114762841637175296,
+        "id_str": "1114762841637175296",
+        "text": "Other queries: \"If using Twitter api, it does not include any information about images in the response objects sent\u2026 https://t.co/JEWZB2XTPq",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/JEWZB2XTPq",
+                    "expanded_url": "https://twitter.com/i/web/status/1114762841637175296",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Apr 07 05:29:40 +0000 2019",
+        "id": 1114762141259763712,
+        "id_str": "1114762141259763712",
+        "text": "Response to some queries asked by students on @midasIIITD task.\nWhat does the line \"dump the responses into JSONlin\u2026 https://t.co/Rr6ri8lyVY",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "midasIIITD",
+                    "name": "MIDAS IIITD",
+                    "id": 1021355762575073281,
+                    "id_str": "1021355762575073281",
+                    "indices": [
+                        46,
+                        57
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Rr6ri8lyVY",
+                    "expanded_url": "https://twitter.com/i/web/status/1114762141259763712",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Apr 06 17:11:29 +0000 2019",
+        "id": 1114576370414292992,
+        "id_str": "1114576370414292992",
+        "text": "RT @kdnuggets: Top 8 #Free Must-Read #Books on #DeepLearning #KDN https://t.co/1DtlN91Yjj",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Free",
+                    "indices": [
+                        21,
+                        26
+                    ]
+                },
+                {
+                    "text": "Books",
+                    "indices": [
+                        37,
+                        43
+                    ]
+                },
+                {
+                    "text": "DeepLearning",
+                    "indices": [
+                        47,
+                        60
+                    ]
+                },
+                {
+                    "text": "KDN",
+                    "indices": [
+                        61,
+                        65
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "kdnuggets",
+                    "name": "KDnuggets",
+                    "id": 20167623,
+                    "id_str": "20167623",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/1DtlN91Yjj",
+                    "expanded_url": "http://ow.ly/2wjT30ohGRL",
+                    "display_url": "ow.ly/2wjT30ohGRL",
+                    "indices": [
+                        66,
+                        89
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Apr 06 17:01:00 +0000 2019",
+            "id": 1114573733216305153,
+            "id_str": "1114573733216305153",
+            "text": "Top 8 #Free Must-Read #Books on #DeepLearning #KDN https://t.co/1DtlN91Yjj",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Free",
+                        "indices": [
+                            6,
+                            11
+                        ]
+                    },
+                    {
+                        "text": "Books",
+                        "indices": [
+                            22,
+                            28
+                        ]
+                    },
+                    {
+                        "text": "DeepLearning",
+                        "indices": [
+                            32,
+                            45
+                        ]
+                    },
+                    {
+                        "text": "KDN",
+                        "indices": [
+                            46,
+                            50
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/1DtlN91Yjj",
+                        "expanded_url": "http://ow.ly/2wjT30ohGRL",
+                        "display_url": "ow.ly/2wjT30ohGRL",
+                        "indices": [
+                            51,
+                            74
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 20167623,
+                "id_str": "20167623",
+                "name": "KDnuggets",
+                "screen_name": "kdnuggets",
+                "location": "Brookline, MA, USA",
+                "description": "Covering #AI, #Analytics, #BigData, #DataMining, #DataScience #MachineLearning, #DeepLearning.  Founded by Gregory Piatetsky-Shapiro.",
+                "url": "https://t.co/pTYBq6ncsT",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/pTYBq6ncsT",
+                                "expanded_url": "https://www.kdnuggets.com/",
+                                "display_url": "kdnuggets.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 144767,
+                "friends_count": 413,
+                "listed_count": 6101,
+                "created_at": "Thu Feb 05 17:37:26 +0000 2009",
+                "favourites_count": 641,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 55716,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "0099B9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/795788806008041473/0nTPcRja_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/795788806008041473/0nTPcRja_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/20167623/1476546748",
+                "profile_link_color": "0099B9",
+                "profile_sidebar_border_color": "5ED4DC",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 21,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Apr 06 16:43:27 +0000 2019",
+        "id": 1114569315636928512,
+        "id_str": "1114569315636928512",
+        "text": "@nupur_baghel @PennDATS Congratulation @nupur_baghel on getting admit from @PennDATS. \nShe got 5/10 acceptance. She\u2026 https://t.co/ooD8yneUwS",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "nupur_baghel",
+                    "name": "Nupur Baghel",
+                    "id": 958345507964796928,
+                    "id_str": "958345507964796928",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "PennDATS",
+                    "name": "MSE in Data Science",
+                    "id": 959160279941763072,
+                    "id_str": "959160279941763072",
+                    "indices": [
+                        14,
+                        23
+                    ]
+                },
+                {
+                    "screen_name": "nupur_baghel",
+                    "name": "Nupur Baghel",
+                    "id": 958345507964796928,
+                    "id_str": "958345507964796928",
+                    "indices": [
+                        39,
+                        52
+                    ]
+                },
+                {
+                    "screen_name": "PennDATS",
+                    "name": "MSE in Data Science",
+                    "id": 959160279941763072,
+                    "id_str": "959160279941763072",
+                    "indices": [
+                        75,
+                        84
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/ooD8yneUwS",
+                    "expanded_url": "https://twitter.com/i/web/status/1114569315636928512",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1114434198360604672,
+        "in_reply_to_status_id_str": "1114434198360604672",
+        "in_reply_to_user_id": 958345507964796928,
+        "in_reply_to_user_id_str": "958345507964796928",
+        "in_reply_to_screen_name": "nupur_baghel",
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 05 16:08:37 +0000 2019",
+        "id": 1114198161562775553,
+        "id_str": "1114198161562775553",
+        "text": "We have emailed the task details to all candidates who have applied to @midasIIITD internship through IIITD portal.\u2026 https://t.co/gZwyr7D2Sw",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "midasIIITD",
+                    "name": "MIDAS IIITD",
+                    "id": 1021355762575073281,
+                    "id_str": "1021355762575073281",
+                    "indices": [
+                        71,
+                        82
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/gZwyr7D2Sw",
+                    "expanded_url": "https://twitter.com/i/web/status/1114198161562775553",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 05 04:05:11 +0000 2019",
+        "id": 1114016105079693312,
+        "id_str": "1114016105079693312",
+        "text": "RT @rfpvjr: Our NAACL paper on polarization in language on Twitter surrounding mass shootings is up on arXiv! https://t.co/g7wiegXxDg\nThis\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "rfpvjr",
+                    "name": "rob voigt",
+                    "id": 399948170,
+                    "id_str": "399948170",
+                    "indices": [
+                        3,
+                        10
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/g7wiegXxDg",
+                    "expanded_url": "https://arxiv.org/abs/1904.01596",
+                    "display_url": "arxiv.org/abs/1904.01596",
+                    "indices": [
+                        110,
+                        133
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Apr 04 20:44:40 +0000 2019",
+            "id": 1113905244159660032,
+            "id_str": "1113905244159660032",
+            "text": "Our NAACL paper on polarization in language on Twitter surrounding mass shootings is up on arXiv!\u2026 https://t.co/M3orvkPYz8",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/M3orvkPYz8",
+                        "expanded_url": "https://twitter.com/i/web/status/1113905244159660032",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            99,
+                            122
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 399948170,
+                "id_str": "399948170",
+                "name": "rob voigt",
+                "screen_name": "rfpvjr",
+                "location": "palo alto, ca",
+                "description": "using computational methods to understand the linguistic mechanisms of social problems; NLP, socioling, discourse-pragmatics",
+                "url": "http://t.co/itaef23mZg",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/itaef23mZg",
+                                "expanded_url": "http://nlp.stanford.edu/robvoigt",
+                                "display_url": "nlp.stanford.edu/robvoigt",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 490,
+                "friends_count": 455,
+                "listed_count": 10,
+                "created_at": "Fri Oct 28 08:46:01 +0000 2011",
+                "favourites_count": 243,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 69,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1739575943/Voigt_Robert_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1739575943/Voigt_Robert_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 16,
+            "favorite_count": 49,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 05 04:04:43 +0000 2019",
+        "id": 1114015987395854336,
+        "id_str": "1114015987395854336",
+        "text": "RT @kdnuggets: Effective Transfer Learning For NLP https://t.co/Z1m0AzlfVv https://t.co/ccX4Uhxjn8",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "kdnuggets",
+                    "name": "KDnuggets",
+                    "id": 20167623,
+                    "id_str": "20167623",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Z1m0AzlfVv",
+                    "expanded_url": "https://buff.ly/2K7XvvN",
+                    "display_url": "buff.ly/2K7XvvN",
+                    "indices": [
+                        51,
+                        74
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1114014846817796099,
+                    "id_str": "1114014846817796099",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D3XGmdMWAAM7bXv.png",
+                    "media_url_https": "https://pbs.twimg.com/media/D3XGmdMWAAM7bXv.png",
+                    "url": "https://t.co/ccX4Uhxjn8",
+                    "display_url": "pic.twitter.com/ccX4Uhxjn8",
+                    "expanded_url": "https://twitter.com/kdnuggets/status/1114014848369799169/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 300,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 300,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 300,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1114014848369799169,
+                    "source_status_id_str": "1114014848369799169",
+                    "source_user_id": 20167623,
+                    "source_user_id_str": "20167623"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1114014846817796099,
+                    "id_str": "1114014846817796099",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D3XGmdMWAAM7bXv.png",
+                    "media_url_https": "https://pbs.twimg.com/media/D3XGmdMWAAM7bXv.png",
+                    "url": "https://t.co/ccX4Uhxjn8",
+                    "display_url": "pic.twitter.com/ccX4Uhxjn8",
+                    "expanded_url": "https://twitter.com/kdnuggets/status/1114014848369799169/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 300,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 300,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 300,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1114014848369799169,
+                    "source_status_id_str": "1114014848369799169",
+                    "source_user_id": 20167623,
+                    "source_user_id_str": "20167623"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Apr 05 04:00:11 +0000 2019",
+            "id": 1114014848369799169,
+            "id_str": "1114014848369799169",
+            "text": "Effective Transfer Learning For NLP https://t.co/Z1m0AzlfVv https://t.co/ccX4Uhxjn8",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/Z1m0AzlfVv",
+                        "expanded_url": "https://buff.ly/2K7XvvN",
+                        "display_url": "buff.ly/2K7XvvN",
+                        "indices": [
+                            36,
+                            59
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1114014846817796099,
+                        "id_str": "1114014846817796099",
+                        "indices": [
+                            60,
+                            83
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D3XGmdMWAAM7bXv.png",
+                        "media_url_https": "https://pbs.twimg.com/media/D3XGmdMWAAM7bXv.png",
+                        "url": "https://t.co/ccX4Uhxjn8",
+                        "display_url": "pic.twitter.com/ccX4Uhxjn8",
+                        "expanded_url": "https://twitter.com/kdnuggets/status/1114014848369799169/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 300,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 300,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 300,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1114014846817796099,
+                        "id_str": "1114014846817796099",
+                        "indices": [
+                            60,
+                            83
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/D3XGmdMWAAM7bXv.png",
+                        "media_url_https": "https://pbs.twimg.com/media/D3XGmdMWAAM7bXv.png",
+                        "url": "https://t.co/ccX4Uhxjn8",
+                        "display_url": "pic.twitter.com/ccX4Uhxjn8",
+                        "expanded_url": "https://twitter.com/kdnuggets/status/1114014848369799169/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 300,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 300,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 300,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 20167623,
+                "id_str": "20167623",
+                "name": "KDnuggets",
+                "screen_name": "kdnuggets",
+                "location": "Brookline, MA, USA",
+                "description": "Covering #AI, #Analytics, #BigData, #DataMining, #DataScience #MachineLearning, #DeepLearning.  Founded by Gregory Piatetsky-Shapiro.",
+                "url": "https://t.co/pTYBq6ncsT",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/pTYBq6ncsT",
+                                "expanded_url": "https://www.kdnuggets.com/",
+                                "display_url": "kdnuggets.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 144767,
+                "friends_count": 413,
+                "listed_count": 6101,
+                "created_at": "Thu Feb 05 17:37:26 +0000 2009",
+                "favourites_count": 641,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 55716,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "0099B9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/795788806008041473/0nTPcRja_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/795788806008041473/0nTPcRja_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/20167623/1476546748",
+                "profile_link_color": "0099B9",
+                "profile_sidebar_border_color": "5ED4DC",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 11,
+            "favorite_count": 21,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 18:31:53 +0000 2019",
+        "id": 1113509442849525760,
+        "id_str": "1113509442849525760",
+        "text": "RT @stanfordnlp: What\u2019s new in @Stanford CS224N Natural Language Processing with Deep Learning for 2019? Question answering\u20141D CNNs\u2014subword\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "stanfordnlp",
+                    "name": "Stanford NLP Group",
+                    "id": 118263124,
+                    "id_str": "118263124",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "Stanford",
+                    "name": "Stanford University",
+                    "id": 18036441,
+                    "id_str": "18036441",
+                    "indices": [
+                        31,
+                        40
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Apr 03 17:07:30 +0000 2019",
+            "id": 1113488206417104897,
+            "id_str": "1113488206417104897",
+            "text": "What\u2019s new in @Stanford CS224N Natural Language Processing with Deep Learning for 2019? Question answering\u20141D CNNs\u2014\u2026 https://t.co/Zv9wvfNLkM",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Stanford",
+                        "name": "Stanford University",
+                        "id": 18036441,
+                        "id_str": "18036441",
+                        "indices": [
+                            14,
+                            23
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/Zv9wvfNLkM",
+                        "expanded_url": "https://twitter.com/i/web/status/1113488206417104897",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 118263124,
+                "id_str": "118263124",
+                "name": "Stanford NLP Group",
+                "screen_name": "stanfordnlp",
+                "location": "Stanford, CA, USA",
+                "description": "Computational Linguistics\u2014Natural Language\u2014Machine Learning\u2014Deep Learning. And misc technology from Silicon Valley. (@chrmanning, @jurafsky & @percyliang)",
+                "url": "http://t.co/OK65AqppWC",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/OK65AqppWC",
+                                "expanded_url": "http://nlp.stanford.edu/",
+                                "display_url": "nlp.stanford.edu",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 70744,
+                "friends_count": 98,
+                "listed_count": 1611,
+                "created_at": "Sun Feb 28 03:28:05 +0000 2010",
+                "favourites_count": 2,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 5447,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "8C1515",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/897182721272799232/0CplRl36_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/897182721272799232/0CplRl36_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/118263124/1524181760",
+                "profile_link_color": "8C1515",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 59,
+            "favorite_count": 223,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 59,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 17:04:32 +0000 2019",
+        "id": 1113487457780215808,
+        "id_str": "1113487457780215808",
+        "text": "RT @DeepMindAI: Today we're releasing a large-scale extendable dataset of mathematical questions, for training (and evaluating the abilitie\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DeepMindAI",
+                    "name": "DeepMind",
+                    "id": 4783690002,
+                    "id_str": "4783690002",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1021355762575073281,
+            "id_str": "1021355762575073281",
+            "name": "MIDAS IIITD",
+            "screen_name": "midasIIITD",
+            "location": "New Delhi, India",
+            "description": "MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information.",
+            "url": "https://t.co/Uwg7oSM6mE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Uwg7oSM6mE",
+                            "expanded_url": "http://midas.iiitd.edu.in/",
+                            "display_url": "midas.iiitd.edu.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 288,
+            "friends_count": 43,
+            "listed_count": 0,
+            "created_at": "Mon Jul 23 11:26:04 +0000 2018",
+            "favourites_count": 143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 342,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021356444921212928/WmSTJCUs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021355762575073281/1554320878",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Apr 03 12:38:17 +0000 2019",
+            "id": 1113420454860083201,
+            "id_str": "1113420454860083201",
+            "text": "Today we're releasing a large-scale extendable dataset of mathematical questions, for training (and evaluating the\u2026 https://t.co/SZRSMvEeO3",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/SZRSMvEeO3",
+                        "expanded_url": "https://twitter.com/i/web/status/1113420454860083201",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 4783690002,
+                "id_str": "4783690002",
+                "name": "DeepMind",
+                "screen_name": "DeepMindAI",
+                "location": "London, UK",
+                "description": "Founded in 2010.  Building Artificial General Intelligence. The creators of #AlphaGo and Atari DQN",
+                "url": "https://t.co/8B3TFFIGoP",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/8B3TFFIGoP",
+                                "expanded_url": "http://www.deepmind.com",
+                                "display_url": "deepmind.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 225707,
+                "friends_count": 110,
+                "listed_count": 3248,
+                "created_at": "Tue Jan 19 13:46:08 +0000 2016",
+                "favourites_count": 224,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 822,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/692405474986164224/NzcXa05I_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/692405474986164224/NzcXa05I_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4783690002/1484305927",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 871,
+            "favorite_count": 2414,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 871,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+]
